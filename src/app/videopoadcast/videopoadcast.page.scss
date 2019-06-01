@@ -1,0 +1,45 @@
+.image{
+    height: 245px;
+    width: 100%;
+}
+.ban ion-title{
+    margin-top: 11px;
+    margin-right: 39px;
+}
+
+.banner{
+    maring: 0 auto; 
+    height: 45px;
+    width: 150x;
+}
+
+.content video{
+    height: 200px;
+    width: 100%;
+}
+
+.containervideo {
+    
+    margin-top: 25px;
+}
+
+.fondo{
+    --background: rgba(48,60,71,0.7);
+  }
+
+
+  ion-card{
+    margin-top: 20px;
+    --background: #ffffff;
+    -webkit-box-shadow: 10px 10px 46px -24px rgba(0,0,0,0.25);
+    -moz-box-shadow: 10px 10px 46px -24px rgba(0,0,0,0.25);
+    box-shadow: 10px 10px 46px -24px rgba(0,0,0,0.25);
+  }
+  div#barranaranja {
+    background: #ab355d;
+    padding: 5px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}

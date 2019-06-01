@@ -1,0 +1,49 @@
+.banner{
+  display:block;
+  margin:0 auto;
+  height: 54px;
+  width: 81px;
+}
+
+.fondo{
+  --background: rgba(48,60,71,0.7);
+}
+
+
+.radio{
+  margin-top: 10px;
+}
+
+#ls_embed_1506545116{
+  width: 100%;
+}
+
+.container ion-card{
+  margin-top: 20px;
+  --background: #ffffff;
+  -webkit-box-shadow: 10px 10px 46px -24px rgba(0,0,0,0.25);
+  -moz-box-shadow: 10px 10px 46px -24px rgba(0,0,0,0.25);
+  box-shadow: 10px 10px 46px -24px rgba(0,0,0,0.25);
+}
+
+ion-card-header{
+    height: 32px;
+}
+
+ion-card-title{
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: -10px;
+}
+
+ion-card-content{
+  
+  margin-top:10px;
+  font-family: Calibri;
+}
+
+ion-card-content img{
+  padding-bottom: 15px;
+}
+

@@ -1,0 +1,36 @@
+.image{
+    height: 245px;
+    width: 100%;
+}
+.ban ion-title{
+    margin-top: 11px;
+    margin-right: 39px;
+}
+
+.banner{
+    maring: 0 auto; 
+    height: 45px;
+    width: 150x;
+}
+
+.fondo{
+    --background: url('../../assets/FondoRegister.jpg');
+  }
+  
+  ion-list.list.list-md.hydrated {
+    border-radius: 5px;
+    padding: 12px;
+    margin-top: 12px;
+    background: #00000057;
+    box-shadow: 6px 6px 21px -1px rgba(0, 0, 0, 0.47);
+    -moz-box-shadow: 6px 6px 21px -1px rgba(0,0,0,0.47);
+    box-shadow: 6px 6px 21px -1px rgba(0,0,0,0.47);
+}
+ div#barraazul {
+    background: #35a3ab;
+    padding: 5px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}

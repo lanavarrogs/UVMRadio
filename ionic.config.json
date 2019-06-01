@@ -1,0 +1,7 @@
+{
+  "name": "UvmRadio",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

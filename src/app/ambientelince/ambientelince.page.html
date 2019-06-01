@@ -1,0 +1,34 @@
+<ion-header>
+  <ion-toolbar color="dark" >
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <div class="ban">
+    <ion-title text-center>
+      <img class="banner" src="../../assets/uvmradio.png">
+    </ion-title>
+  </div>
+  </ion-toolbar>
+</ion-header>
+  <div id="barranaranja"> <b> AmbienteLince </b> </div>
+
+<ion-content padding>
+  
+
+  <ion-list class="listamenu">
+    <ion-item  (click)="gotoDeportes()">
+        <ion-icon name="american-football" slot="start"></ion-icon>
+      <ion-label>Deportes</ion-label>
+    </ion-item>
+    <ion-item (click)="gotoAculturales()">
+        <ion-icon name="medal" slot="start"></ion-icon>
+      <ion-label>Actividades culturales</ion-label>
+    </ion-item>
+    <ion-item (click)="gotoEventos()">
+        <ion-icon name="calendar" slot="start"></ion-icon>
+      <ion-label>Eventos</ion-label>
+    </ion-item>
+
+  </ion-list>
+
+</ion-content>
